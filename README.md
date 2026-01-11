@@ -181,8 +181,4 @@ If your application requires additional environment variables, you'll need to mo
 
 ## 📄 License
 
-[Add your license here]
-
-## 🤝 Contributing
-
-[Add contribution guidelines here]
+GNU GPL v3
